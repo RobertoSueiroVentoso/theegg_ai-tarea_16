@@ -1,6 +1,6 @@
 # Tarea 16
 
-## The Egg - Escuela de Inteligencia Artificial.
+## The Egg. Escuela de Inteligencia Artificial.
 
 Hay que aprender a trabajar en equipo, y para ello es importante aprender a trabajar con repositorios.
 
