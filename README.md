@@ -46,7 +46,7 @@ Invitamos a los alumnos de la escuela a mirar los repositorios del resto de comp
 
 #repositorio | #github | #branch | #master | #merge | #fork | #commit
 
-### LINKS DE INTERÉS:
+### LINKS DE INTERÉS:
 
 https://github.com/https://www.youtube.com/watch?v=jGehuhFhtnE
 
