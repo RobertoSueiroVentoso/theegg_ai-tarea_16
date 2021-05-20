@@ -42,18 +42,18 @@ Una vez cambiado tu perfil los evaluadores y evaluados ya podréis acceder de ma
 
 Invitamos a los alumnos de la escuela a mirar los repositorios del resto de compañeros, así se aprende mucho. Eso sí, si se detecta que algún alumno está plagiando el trabajo de sus compañeros será expulsado de la escuela de manera inmediata.
 
-#HASHTAGS  (etiquetas de ayuda para búsqueda de información relevante):
+### #HASHTAGS  (etiquetas de ayuda para búsqueda de información relevante):
 
 #repositorio | #github | #branch | #master | #merge | #fork | #commit
 
-LINKS DE INTERÉS:
+### LINKS DE INTERÉS:
 
 https://github.com/https://www.youtube.com/watch?v=jGehuhFhtnE
 
-DICCIONARIO:
+### DICCIONARIO:
 
 repositorio-de-control-de-versiones | github
 
-PUNTUACIÓN:
+### PUNTUACIÓN:
 
 Programación: 3 | Redes: 1 | Seguridad: 1 | Algoritmia: 1
