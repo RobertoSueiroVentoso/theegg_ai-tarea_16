@@ -2,7 +2,7 @@
 
 ## DICCIONARIO ACTUALIZADO
 
-### Diccionario de la tarea 11
+### Palabras para el Diccionario de la tarea 11
 
 
 - Palabra
