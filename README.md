@@ -56,7 +56,4 @@ repositorio-de-control-de-versiones | github
 
 PUNTUACIÓN:
 
-Programación: 3
-Redes: 1
-Seguridad: 1
-Algoritmia: 1
+Programación: 3 | Redes: 1 | Seguridad: 1 | Algoritmia: 1
